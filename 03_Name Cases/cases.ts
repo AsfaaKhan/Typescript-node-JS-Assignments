@@ -32,7 +32,7 @@ function toTitleCase(str : string){
 }
 
  
-console.log(toTitleCase(perosnName))
+console.log(`IN TITLE CASE : "${toTitleCase(perosnName)} "`)
 
 
 
